@@ -1,9 +1,3 @@
-[submodule "Visual_Odom_KITTI"]
-	path = Visual_Odom_KITTI
-	url = https://github.com/FoamoftheSea/KITTI_visual_odometry.git
-[submodule "KITTI_visual_odom"]
-	path = KITTI_visual_odom
-	url = https://github.com/FoamoftheSea/KITTI_visual_odometry.git
-[submodule "KITTI_Visual_Odometry"]
-	path = KITTI_Visual_Odometry
+[submodule "KITTI_visual_odometry"]
+	path = KITTI_visual_odometry
 	url = https://github.com/FoamoftheSea/KITTI_visual_odometry.git
